@@ -1,0 +1,9 @@
+# This is comment line
+
+title|`wOctober 1st: `5October Update - Basic Features!
+
+description|Veniam exercitation veniam tempor excepteur eiusmod veniam consequat velit ut ea.
+
+# update|{icon item id}|{content}
+update|1432|New commands: `2/warp``, `2/back``, `2/calc``, `2/re ``for `1FREE ``plan!
+update|1432|New abbility: `8Mod Zoom ``and `8Safe long punch ``and `8long break``.
