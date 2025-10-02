@@ -2,8 +2,10 @@
 
 title|`wOctober 1st: `5October Update - Basic Features!
 
-description|Veniam exercitation veniam tempor excepteur eiusmod veniam consequat velit ut ea.
+description|This is the latest proxy for Growtopia. We are `4not affiliated with Ubisoft`` and this is a `5third-party application``. We are not responsible if your account gets banned from the server.
 
 # update|{icon item id}|{content}
-update|1432|New commands: `2/warp``, `2/back``, `2/calc``, `2/re ``for `1FREE ``plan!
-update|1432|New abbility: `8Mod Zoom ``and `8Safe long punch ``and `8long break``.
+update|1432|Gems Accumulating: Collected gems are now displayed for the `1PRO`` plan.
+update|1432|New Commands: `2/warp``, `2/back``, `2/calc``, and `2/re`` for the `1FREE`` plan.
+update|1432|New Abilities: `8Mod Zoom``, `8Safe Long Punch``, and `8Long Break``.
+update|20|Other Features: Auto-compress WL into DL, display (World Lock balance, Level, and Gems), and custom configuration (for developers only).
