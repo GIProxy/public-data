@@ -11,10 +11,10 @@ update|1432|New Abilities: `8Mod Zoom``, `8Safe Long Punch``, and `8Long Break``
 update|20|Other Features: Auto-compress WL into DL, display (World Lock balance, Level, and Gems), and custom configuration (for developers only).
 
 # item|subtitle|itemID|text
-item|`4PELER KUDA:|242|`2/warp ``- Warp other world
-item|`4PELER KUDA:|242|`2/daw ``- drop all lock
-item|`4PELER KUDA:|242|`2/cd ``- drop world lock
-item|`4PELER KUDA:|242|`2/calc ``- calculator multi operation
+item|`4BASIC COMMAND:|242|`2/warp ``- Warp other world
+item|`4BASIC COMMAND:|242|`2/daw ``- drop all lock
+item|`4BASIC COMMAND:|242|`2/cd ``- drop world lock
+item|`4BASIC COMMAND:|242|`2/calc ``- calculator multi operation
 
 
 item|PELER KUDA:|242|`2/warp ``- Warp other world
