@@ -12,6 +12,7 @@ update|20|Other Features: Auto-compress WL into DL, display (World Lock balance,
 
 # item|subtitle|itemID|text
 item|`4PELER KUDA:|242|`2/warp ``- Warp other world
+item|`4PELER KUDA:|242|`2/daw ``- drop all lock
 item|PELER KUDA:|242|`2/warp ``- Warp other world
 item|PELER KUDA1:|242|`2/warp ``- Warp other world
 item|PELER KUDA1:|242|`2/warp ``- Warp other world
