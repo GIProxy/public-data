@@ -2,20 +2,20 @@
 
 title|`wOctober 1st: `5October Update - Basic Features!
 
-description|This is the latest proxy for Growtopia. We are `4not affiliated with Ubisoft`` and this is a `5third-party application``. We are not responsible if your account gets banned from the server.
+description|This is the latest proxy for Growtopia. We are `4not affiliated with Ubisoft`` and this is a `5third-party application``. We are not responsible if your account is banned from the server.<CR>NOTE: The proxy server functionality is temporarily disabled for development.
 
 # update|{icon item id}|{content}
-update|1432|Gems Accumulating: Collected gems are now displayed for the `1PRO`` plan.
-update|1432|New Commands: `2/warp``, `2/back``, `2/calc``, and `2/re`` for the `1FREE`` plan.
-update|1432|New Abilities: `8Mod Zoom``, `8Safe Long Punch``, and `8Long Break``.
-update|20|Other Features: Auto-compress WL into DL, display (World Lock balance, Level, and Gems), and custom configuration (for developers only).
+update|1432|Accumulated Gems: Collected gems are now displayed for players on the `1PRO`` plan.
+update|1432|New Commands: `2/warp``, `2/back``, `2/calc``, and `2/re`` are now available on the `1FREE`` plan.
+update|1432|New Abilities: `8Mod Zoom``, `8Safe Long Punch``, and `8Long Break`` are now enabled.
+update|20|Other Features: Automatically compress WL into DL, show World Lock balance, level, and gems, and enable custom configuration for developers only.
 
 # item|subtitle|itemID|text
-item|`9BASIC COMMAND:|242|`9/warp ``- `7(Warp Other world)
-item|`9BASIC COMMAND:|242|`9/back ``- `5(Move Back To Previous World)
-item|`9BASIC COMMAND:|242|`9/re ``- `5(Executing Previous Command)
-item|`9BASIC COMMAND:|242|`9/cd ``- `7(Drop World Lock)
-item|`9BASIC COMMAND:|242|`9/dd ``- `7(Drop Diamond Lock)
-item|`9BASIC COMMAND:|242|`9/daw ``- `7(Drop all lock)
-item|`9BASIC COMMAND:|242|`9/calc ``- `7(Calculator Multi Operation)
-item|`9BASIC COMMAND:|242|`9/ping ``- `7(Ping The Server)
+item|`9BASIC COMMAND:|242|`9/warp ``- `7(Warp to another world)
+item|`9BASIC COMMAND:|242|`9/back ``- `5(Return to the previous world)
+item|`9BASIC COMMAND:|242|`9/re ``- `5(Repeat the previous command)
+item|`9BASIC COMMAND:|242|`9/cd ``- `7(Drop a World Lock)
+item|`9BASIC COMMAND:|242|`9/dd ``- `7(Drop a Diamond Lock)
+item|`9BASIC COMMAND:|242|`9/daw ``- `7(Drop all locks)
+item|`9BASIC COMMAND:|242|`9/calc ``- `7(Use the multi-operation calculator)
+item|`9BASIC COMMAND:|242|`9/ping ``- `7(Ping the server)
