@@ -12,16 +12,10 @@ update|20|Other Features: Auto-compress WL into DL, display (World Lock balance,
 
 # item|subtitle|itemID|text
 item|`9BASIC COMMAND:|242|`9/warp ``- `7(Warp Other world)
-item|`9BASIC COMMAND:|242|`9/back ``- `7(Move Back To Previous World)
-item|`9BASIC COMMAND:|242|`9/re ``- `7(Executing Previous Command)
+item|`9BASIC COMMAND:|242|`9/back ``- `5(Move Back To Previous World)
+item|`9BASIC COMMAND:|242|`9/re ``- `5(Executing Previous Command)
 item|`9BASIC COMMAND:|242|`9/cd ``- `7(Drop World Lock)
 item|`9BASIC COMMAND:|242|`9/dd ``- `7(Drop Diamond Lock)
 item|`9BASIC COMMAND:|242|`9/daw ``- `7(Drop all lock)
 item|`9BASIC COMMAND:|242|`9/calc ``- `7(Calculator Multi Operation)
 item|`9BASIC COMMAND:|242|`9/ping ``- `7(Ping The Server)
-
-
-item|PELER KUDA:|242|`2/warp ``- Warp other world
-item|PELER KUDA1:|242|`2/warp ``- Warp other world
-item|PELER KUDA1:|242|`2/warp ``- Warp other world
-item|PELER KUDA2:|242|`2/warp ``- Warp other world
