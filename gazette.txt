@@ -1,14 +1,14 @@
 # This is comment line
 
-title|`wOctober 1st: `5October Update - Basic Features!
+title|`w`5October Update: Basic Features!
 
-description|This is the latest proxy for Growtopia. We are `4not affiliated with Ubisoft`` and this is a `5third-party application``. We are not responsible if your account is banned from the server.<CR>NOTE: The proxy server functionality is temporarily disabled for development.
+description|This is the latest proxy for Growtopia. We are `4not affiliated with Ubisoft`` and this is a `5third-party application``. We are not responsible if your account is banned from the server.<CR>NOTE: The proxy server functionality is temporarily disabled for development purpose.
 
 # update|{icon item id}|{content}
 update|1432|Accumulated Gems: Collected gems are now displayed for players on the `1PRO`` plan.
 update|1432|New Commands: `2/warp``, `2/back``, `2/calc``, `2/daw``, `2/dw``, `2/dd``, `2/db``, and `2/re`` are now available on the `1FREE`` plan.
 update|1432|New Abilities: `8Mod Zoom``, `8Safe Long Punch``, and `8Long Break`` are now enabled.
-update|20|Other Features: Automatically compress WL into DL, show World Lock balance, level, and gems, and enable custom configuration for developers only.
+update|20|Other Features: Automatically compress WL into DL, show World Lock balance, level, and gems, and enable custom configuration for developers only. Creating Web server with self-signed cert for Android user.
 
 # item|subtitle|itemID|text
 item|`9BASIC COMMAND:|242|`9/warp ``- `7(Warp to another world)
