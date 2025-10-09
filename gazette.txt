@@ -1,6 +1,6 @@
 # This is comment line
 
-title|`w`5October Update: Basic Features!
+title|`wOctober Update: `5Basic Features!
 
 description|This is the latest proxy for Growtopia. We are `4not affiliated with Ubisoft`` and this is a `5third-party application``. We are not responsible if your account is banned from the server.<CR>NOTE: The proxy server functionality is temporarily disabled for development purpose.
 
