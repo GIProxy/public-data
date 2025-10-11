@@ -1,0 +1,11 @@
+# This is comment line
+
+title|`wEkim Guncellemesi: `5Temel Ozellikler!
+
+description|Bu Growtopia icin en yeni proxy. Biz `4Ubisoft ile iliskili degiliz`` ve bu bir `5ucuncu taraf uygulamasidir``. Hesabiniz sunucudan banlanirsa sorumluluk kabul etmiyoruz.<CR>NOT: Proxy sunucusu gelistirme amaciyla gecici olarak devre disi.
+
+# update|{icon item id}|{content}
+update|1432|Toplanan Elmaslar: Toplanan elmaslar artik `1PRO`` planindaki oyuncular icin gorunuyor.
+update|1432|Yeni Komutlar: `2/warp``, `2/back``, `2/calc``, `2/daw``, `2/dw``, `2/dd``, `2/db``, ve `2/re`` artik `1FREE`` planinda mevcut.
+update|1432|Yeni Yetenekler: `8Mod Zoom``, `8Safe Long Punch``, ve `8Long Break`` etkinlestirildi.
+update|20|Diger Ozellikler: WL otomatik olarak DL'ye sikistirilir, World Lock bakiyesi, seviye ve elmaslar gosterilir, ve sadece gelistiriciler icin ozel ayarlar acilir. Android kullanicisi icin self-signed sertifikali Web sunucusu olusturuluyor.

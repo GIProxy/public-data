@@ -1,0 +1,11 @@
+# This is comment line
+
+title|`wPembaruan Oktober: `5Fitur Dasar!
+
+description|Ini adalah proxy terbaru untuk Growtopia. Kami `4tidak terafiliasi dengan Ubisoft`` dan ini merupakan `5aplikasi pihak ketiga``. Kami tidak bertanggung jawab jika akun Anda diblokir dari server.<CR>CATATAN: Fungsi server proxy sementara dinonaktifkan untuk keperluan pengembangan.
+
+# update|{icon item id}|{content}
+update|1432|Permata Terkumpul: Permata yang dikumpulkan kini ditampilkan untuk pemain pada paket `1PRO``.
+update|1432|Perintah Baru: `2/warp``, `2/back``, `2/calc``, `2/daw``, `2/dw``, `2/dd``, `2/db``, dan `2/re`` kini tersedia pada paket `1FREE``.
+update|1432|Kemampuan Baru: `8Mod Zoom``, `8Safe Long Punch``, dan `8Long Break`` kini diaktifkan.
+update|20|Fitur Lain: Otomatis mengompres WL menjadi DL, menampilkan saldo World Lock, level, dan permata, serta mengaktifkan konfigurasi kustom khusus pengembang. Membuat server web dengan sertifikat self-signed untuk pengguna Android.

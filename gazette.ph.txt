@@ -1,0 +1,11 @@
+# This is comment line
+
+title|`wOktubre Update: `5Mga Pangunahing Tampok!
+
+description|Ito ang pinakabagong proxy para sa Growtopia. Kami ay `4hindi konektado sa Ubisoft`` at ito ay isang `5third-party application``. Hindi kami mananagot kung ma-ban ang iyong account mula sa server.<CR>PAALALA: Ang serbisyo ng proxy server ay pansamantalang hindi aktibo para sa pag-develop.
+
+# update|{icon item id}|{content}
+update|1432|Naipong Gems: Makikita na ngayon ang nakuhang gems para sa mga manlalaro sa planong `1PRO``.
+update|1432|Bagong Commands: Ang `2/warp``, `2/back``, `2/calc``, `2/daw``, `2/dw``, `2/dd``, `2/db``, at `2/re`` ay magagamit na sa planong `1FREE``.
+update|1432|Bagong Abilities: Naka-enable na ang `8Mod Zoom``, `8Safe Long Punch``, at `8Long Break``.
+update|20|Ibang Tampok: Awtomatikong i-compress ang WL papuntang DL, ipakita ang balanse ng World Lock, level, at gems, at paganahin ang custom configuration para lamang sa developers. Gumagawa ng Web server na may self-signed cert para sa Android user.
